@@ -1,0 +1,9 @@
+.idea
+__pycache__
+*.pyc
+*.zip
+*.7z
+*.url
+*.docx
+*.dotx
+*.doc

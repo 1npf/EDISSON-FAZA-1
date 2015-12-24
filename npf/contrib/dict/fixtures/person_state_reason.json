@@ -1,0 +1,51 @@
+[
+{
+  "model": "dict.personstatereason",
+  "fields": {
+    "name": "Звонок от родственников"
+  },
+  "pk": 1
+},
+{
+  "model": "dict.personstatereason",
+  "fields": {
+    "name": "Свидетельство о смерти"
+  },
+  "pk": 2
+},
+{
+  "model": "dict.personstatereason",
+  "fields": {
+    "name": "Расторжение заключенных договоров"
+  },
+  "pk": 3
+},
+{
+  "model": "dict.personstatereason",
+  "fields": {
+    "name": "Заключение договора по ОПС"
+  },
+  "pk": 4
+},
+{
+  "model": "dict.personstatereason",
+  "fields": {
+    "name": "Заключение договора по НПО"
+  },
+  "pk": 5
+},
+{
+  "model": "dict.personstatereason",
+  "fields": {
+    "name": "Достижение пенсионного возраста"
+  },
+  "pk": 6
+},
+{
+  "model": "dict.personstatereason",
+  "fields": {
+    "name": "Назначение пенсии"
+  },
+  "pk": 7
+}
+]

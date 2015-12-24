@@ -1,0 +1,1586 @@
+[
+{
+  "pk": 1,
+  "model": "dict.country",
+  "fields": {
+    "name": "Австралийский Союз",
+    "short_name": "Австралия"
+  }
+},
+{
+  "pk": 2,
+  "model": "dict.country",
+  "fields": {
+    "name": "Австрийская Республика",
+    "short_name": "Австрия"
+  }
+},
+{
+  "pk": 3,
+  "model": "dict.country",
+  "fields": {
+    "name": "Азербайджанская Республика",
+    "short_name": "Азербайджан"
+  }
+},
+{
+  "pk": 4,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Албания",
+    "short_name": "Албания"
+  }
+},
+{
+  "pk": 5,
+  "model": "dict.country",
+  "fields": {
+    "name": "Алжирская Народная Демократическая Республика",
+    "short_name": "Алжир"
+  }
+},
+{
+  "pk": 6,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Ангола",
+    "short_name": "Ангола"
+  }
+},
+{
+  "pk": 7,
+  "model": "dict.country",
+  "fields": {
+    "name": "Княжество Андорра",
+    "short_name": "Андорра"
+  }
+},
+{
+  "pk": 8,
+  "model": "dict.country",
+  "fields": {
+    "name": "Антигуа и Барбуда",
+    "short_name": "Антигуа и Барбуда"
+  }
+},
+{
+  "pk": 9,
+  "model": "dict.country",
+  "fields": {
+    "name": "Аргентинская Республика",
+    "short_name": "Аргентина"
+  }
+},
+{
+  "pk": 10,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Армения",
+    "short_name": "Армения"
+  }
+},
+{
+  "pk": 11,
+  "model": "dict.country",
+  "fields": {
+    "name": "Исламская Республика Афганистан",
+    "short_name": "Афганистан"
+  }
+},
+{
+  "pk": 12,
+  "model": "dict.country",
+  "fields": {
+    "name": "Содружество Багамских Островов",
+    "short_name": "Багамы"
+  }
+},
+{
+  "pk": 13,
+  "model": "dict.country",
+  "fields": {
+    "name": "Народная Республика Бангладеш",
+    "short_name": "Бангладеш"
+  }
+},
+{
+  "pk": 14,
+  "model": "dict.country",
+  "fields": {
+    "name": "Барбадос",
+    "short_name": "Барбадос"
+  }
+},
+{
+  "pk": 15,
+  "model": "dict.country",
+  "fields": {
+    "name": "Королевство Бахрейн",
+    "short_name": "Бахрейн"
+  }
+},
+{
+  "pk": 16,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Беларусь",
+    "short_name": "Белоруссия"
+  }
+},
+{
+  "pk": 17,
+  "model": "dict.country",
+  "fields": {
+    "name": "Белиз",
+    "short_name": "Белиз"
+  }
+},
+{
+  "pk": 18,
+  "model": "dict.country",
+  "fields": {
+    "name": "Королевство Бельгия",
+    "short_name": "Бельгия"
+  }
+},
+{
+  "pk": 19,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Бенин",
+    "short_name": "Бенин"
+  }
+},
+{
+  "pk": 20,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Болгария",
+    "short_name": "Болгария"
+  }
+},
+{
+  "pk": 21,
+  "model": "dict.country",
+  "fields": {
+    "name": "Многонациональное Государство Боливия",
+    "short_name": "Боливия"
+  }
+},
+{
+  "pk": 22,
+  "model": "dict.country",
+  "fields": {
+    "name": "Босния и Герцеговина",
+    "short_name": "Босния и Герцеговина"
+  }
+},
+{
+  "pk": 23,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Ботсвана",
+    "short_name": "Ботсвана"
+  }
+},
+{
+  "pk": 24,
+  "model": "dict.country",
+  "fields": {
+    "name": "Федеративная Республика Бразилия",
+    "short_name": "Бразилия"
+  }
+},
+{
+  "pk": 25,
+  "model": "dict.country",
+  "fields": {
+    "name": "Государство Бруней-Даруссалам",
+    "short_name": "Бруней"
+  }
+},
+{
+  "pk": 26,
+  "model": "dict.country",
+  "fields": {
+    "name": "Буркина-Фасо",
+    "short_name": "Буркина-Фасо"
+  }
+},
+{
+  "pk": 27,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Бурунди",
+    "short_name": "Бурунди"
+  }
+},
+{
+  "pk": 28,
+  "model": "dict.country",
+  "fields": {
+    "name": "Королевство Бутан",
+    "short_name": "Бутан"
+  }
+},
+{
+  "pk": 29,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Вануату",
+    "short_name": "Вануату"
+  }
+},
+{
+  "pk": 30,
+  "model": "dict.country",
+  "fields": {
+    "name": "Соединённое Королевство Великобритании и Северной Ирландии",
+    "short_name": "Великобритания"
+  }
+},
+{
+  "pk": 31,
+  "model": "dict.country",
+  "fields": {
+    "name": "Венгрия",
+    "short_name": "Венгрия"
+  }
+},
+{
+  "pk": 32,
+  "model": "dict.country",
+  "fields": {
+    "name": "Боливарианская Республика Венесуэла",
+    "short_name": "Венесуэла"
+  }
+},
+{
+  "pk": 33,
+  "model": "dict.country",
+  "fields": {
+    "name": "Демократическая Республика Восточный Тимор",
+    "short_name": "Восточный Тимор"
+  }
+},
+{
+  "pk": 34,
+  "model": "dict.country",
+  "fields": {
+    "name": "Социалистическая Республика Вьетнам",
+    "short_name": "Вьетнам"
+  }
+},
+{
+  "pk": 35,
+  "model": "dict.country",
+  "fields": {
+    "name": "Габонская Республика",
+    "short_name": "Габон"
+  }
+},
+{
+  "pk": 36,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Гаити",
+    "short_name": "Гаити"
+  }
+},
+{
+  "pk": 37,
+  "model": "dict.country",
+  "fields": {
+    "name": "Кооперативная Республика Гайана",
+    "short_name": "Гайана"
+  }
+},
+{
+  "pk": 38,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Гамбия",
+    "short_name": "Гамбия"
+  }
+},
+{
+  "pk": 39,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Гана",
+    "short_name": "Гана"
+  }
+},
+{
+  "pk": 40,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Гватемала",
+    "short_name": "Гватемала"
+  }
+},
+{
+  "pk": 41,
+  "model": "dict.country",
+  "fields": {
+    "name": "Гвинейская Республика",
+    "short_name": "Гвинея"
+  }
+},
+{
+  "pk": 42,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Гвинея-Бисау",
+    "short_name": "Гвинея-Бисау"
+  }
+},
+{
+  "pk": 43,
+  "model": "dict.country",
+  "fields": {
+    "name": "Федеративная Республика Германия",
+    "short_name": "Германия"
+  }
+},
+{
+  "pk": 44,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Гондурас",
+    "short_name": "Гондурас"
+  }
+},
+{
+  "pk": 45,
+  "model": "dict.country",
+  "fields": {
+    "name": "Гренада",
+    "short_name": "Гренада"
+  }
+},
+{
+  "pk": 46,
+  "model": "dict.country",
+  "fields": {
+    "name": "Греческая Республика",
+    "short_name": "Греция"
+  }
+},
+{
+  "pk": 47,
+  "model": "dict.country",
+  "fields": {
+    "name": "Грузия",
+    "short_name": "Грузия"
+  }
+},
+{
+  "pk": 48,
+  "model": "dict.country",
+  "fields": {
+    "name": "Королевство Дания",
+    "short_name": "Дания"
+  }
+},
+{
+  "pk": 49,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Джибути",
+    "short_name": "Джибути"
+  }
+},
+{
+  "pk": 50,
+  "model": "dict.country",
+  "fields": {
+    "name": "Содружество Доминики",
+    "short_name": "Доминика"
+  }
+},
+{
+  "pk": 51,
+  "model": "dict.country",
+  "fields": {
+    "name": "Доминиканская Республика",
+    "short_name": "Доминиканская Республика"
+  }
+},
+{
+  "pk": 52,
+  "model": "dict.country",
+  "fields": {
+    "name": "Арабская Республика Египет",
+    "short_name": "Египет"
+  }
+},
+{
+  "pk": 53,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Замбия",
+    "short_name": "Замбия"
+  }
+},
+{
+  "pk": 54,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Зимбабве",
+    "short_name": "Зимбабве"
+  }
+},
+{
+  "pk": 55,
+  "model": "dict.country",
+  "fields": {
+    "name": "Государство Израиль",
+    "short_name": "Израиль"
+  }
+},
+{
+  "pk": 56,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Индия",
+    "short_name": "Индия"
+  }
+},
+{
+  "pk": 57,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Индонезия",
+    "short_name": "Индонезия"
+  }
+},
+{
+  "pk": 58,
+  "model": "dict.country",
+  "fields": {
+    "name": "Иорданское Хашимитское Королевство",
+    "short_name": "Иордания"
+  }
+},
+{
+  "pk": 59,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Ирак",
+    "short_name": "Ирак"
+  }
+},
+{
+  "pk": 60,
+  "model": "dict.country",
+  "fields": {
+    "name": "Исламская Республика Иран",
+    "short_name": "Иран"
+  }
+},
+{
+  "pk": 61,
+  "model": "dict.country",
+  "fields": {
+    "name": "Ирландия",
+    "short_name": "Ирландия"
+  }
+},
+{
+  "pk": 62,
+  "model": "dict.country",
+  "fields": {
+    "name": "Исландия",
+    "short_name": "Исландия"
+  }
+},
+{
+  "pk": 63,
+  "model": "dict.country",
+  "fields": {
+    "name": "Королевство Испания",
+    "short_name": "Испания"
+  }
+},
+{
+  "pk": 64,
+  "model": "dict.country",
+  "fields": {
+    "name": "Итальянская Республика",
+    "short_name": "Италия"
+  }
+},
+{
+  "pk": 65,
+  "model": "dict.country",
+  "fields": {
+    "name": "Йеменская Республика",
+    "short_name": "Йемен"
+  }
+},
+{
+  "pk": 66,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Кабо-Верде",
+    "short_name": "Кабо-Верде"
+  }
+},
+{
+  "pk": 67,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Казахстан",
+    "short_name": "Казахстан"
+  }
+},
+{
+  "pk": 68,
+  "model": "dict.country",
+  "fields": {
+    "name": "Королевство Камбоджа",
+    "short_name": "Камбоджа"
+  }
+},
+{
+  "pk": 69,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Камерун",
+    "short_name": "Камерун"
+  }
+},
+{
+  "pk": 70,
+  "model": "dict.country",
+  "fields": {
+    "name": "Канада",
+    "short_name": "Канада"
+  }
+},
+{
+  "pk": 71,
+  "model": "dict.country",
+  "fields": {
+    "name": "Государство Катар",
+    "short_name": "Катар"
+  }
+},
+{
+  "pk": 72,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Кения",
+    "short_name": "Кения"
+  }
+},
+{
+  "pk": 73,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Кипр",
+    "short_name": "Кипр"
+  }
+},
+{
+  "pk": 74,
+  "model": "dict.country",
+  "fields": {
+    "name": "Киргизская Республика (Кыргызская Республика, Республика Кыргызстан)",
+    "short_name": "Киргизия"
+  }
+},
+{
+  "pk": 75,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Кирибати",
+    "short_name": "Кирибати"
+  }
+},
+{
+  "pk": 76,
+  "model": "dict.country",
+  "fields": {
+    "name": "Китайская Народная Республика",
+    "short_name": "КНР"
+  }
+},
+{
+  "pk": 77,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Колумбия",
+    "short_name": "Колумбия"
+  }
+},
+{
+  "pk": 78,
+  "model": "dict.country",
+  "fields": {
+    "name": "Союз Коморских Островов",
+    "short_name": "Коморы"
+  }
+},
+{
+  "pk": 79,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Конго",
+    "short_name": "Республика Конго"
+  }
+},
+{
+  "pk": 80,
+  "model": "dict.country",
+  "fields": {
+    "name": "Демократическая Республика Конго",
+    "short_name": "Демократическая Республика Конго"
+  }
+},
+{
+  "pk": 81,
+  "model": "dict.country",
+  "fields": {
+    "name": "Корейская Народно-Демократическая Республика (Северная Корея)",
+    "short_name": "КНДР"
+  }
+},
+{
+  "pk": 82,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Корея (Южная Корея",
+    "short_name": "Республика Корея"
+  }
+},
+{
+  "pk": 83,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Коста-Рика",
+    "short_name": "Коста-Рика"
+  }
+},
+{
+  "pk": 84,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Кот-д’Ивуар",
+    "short_name": "Кот-д’Ивуар"
+  }
+},
+{
+  "pk": 85,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Куба",
+    "short_name": "Куба"
+  }
+},
+{
+  "pk": 86,
+  "model": "dict.country",
+  "fields": {
+    "name": "Государство Кувейт",
+    "short_name": "Кувейт"
+  }
+},
+{
+  "pk": 87,
+  "model": "dict.country",
+  "fields": {
+    "name": "Лаосская Народно-Демократическая Республика",
+    "short_name": "Лаос"
+  }
+},
+{
+  "pk": 88,
+  "model": "dict.country",
+  "fields": {
+    "name": "Латвийская Республика",
+    "short_name": "Латвия"
+  }
+},
+{
+  "pk": 89,
+  "model": "dict.country",
+  "fields": {
+    "name": "Королевство Лесото",
+    "short_name": "Лесото"
+  }
+},
+{
+  "pk": 90,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Либерия",
+    "short_name": "Либерия"
+  }
+},
+{
+  "pk": 91,
+  "model": "dict.country",
+  "fields": {
+    "name": "Ливанская Республика",
+    "short_name": "Ливан"
+  }
+},
+{
+  "pk": 92,
+  "model": "dict.country",
+  "fields": {
+    "name": "Ливия",
+    "short_name": "Ливия"
+  }
+},
+{
+  "pk": 93,
+  "model": "dict.country",
+  "fields": {
+    "name": "Литовская Республика",
+    "short_name": "Литва"
+  }
+},
+{
+  "pk": 94,
+  "model": "dict.country",
+  "fields": {
+    "name": "Княжество Лихтенштейн",
+    "short_name": "Лихтенштейн"
+  }
+},
+{
+  "pk": 95,
+  "model": "dict.country",
+  "fields": {
+    "name": "Великое Герцогство Люксембург",
+    "short_name": "Люксембург"
+  }
+},
+{
+  "pk": 96,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Маврикий",
+    "short_name": "Маврикий"
+  }
+},
+{
+  "pk": 97,
+  "model": "dict.country",
+  "fields": {
+    "name": "Исламская Республика Мавритания",
+    "short_name": "Мавритания"
+  }
+},
+{
+  "pk": 98,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Мадагаскар",
+    "short_name": "Мадагаскар"
+  }
+},
+{
+  "pk": 99,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Македония",
+    "short_name": "Македония"
+  }
+},
+{
+  "pk": 100,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Малави",
+    "short_name": "Малави"
+  }
+},
+{
+  "pk": 101,
+  "model": "dict.country",
+  "fields": {
+    "name": "Малайзия",
+    "short_name": "Малайзия"
+  }
+},
+{
+  "pk": 102,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Мали",
+    "short_name": "Мали"
+  }
+},
+{
+  "pk": 103,
+  "model": "dict.country",
+  "fields": {
+    "name": "Мальдивская Республика",
+    "short_name": "Мальдивы"
+  }
+},
+{
+  "pk": 104,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Мальта",
+    "short_name": "Мальта"
+  }
+},
+{
+  "pk": 105,
+  "model": "dict.country",
+  "fields": {
+    "name": "Королевство Марокко",
+    "short_name": "Марокко"
+  }
+},
+{
+  "pk": 106,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Маршалловы Острова",
+    "short_name": "Маршалловы Острова"
+  }
+},
+{
+  "pk": 107,
+  "model": "dict.country",
+  "fields": {
+    "name": "Мексиканские Соединенные Штаты",
+    "short_name": "Мексика"
+  }
+},
+{
+  "pk": 108,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Мозамбик",
+    "short_name": "Мозамбик"
+  }
+},
+{
+  "pk": 109,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Молдова",
+    "short_name": "Молдавия"
+  }
+},
+{
+  "pk": 110,
+  "model": "dict.country",
+  "fields": {
+    "name": "Княжество Монако",
+    "short_name": "Монако"
+  }
+},
+{
+  "pk": 111,
+  "model": "dict.country",
+  "fields": {
+    "name": "Монголия",
+    "short_name": "Монголия"
+  }
+},
+{
+  "pk": 112,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Союз Мьянма[1]",
+    "short_name": "Мьянма"
+  }
+},
+{
+  "pk": 113,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Намибия",
+    "short_name": "Намибия"
+  }
+},
+{
+  "pk": 114,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Науру",
+    "short_name": "Науру"
+  }
+},
+{
+  "pk": 115,
+  "model": "dict.country",
+  "fields": {
+    "name": "Федеративная Демократическая Республика Непал",
+    "short_name": "Непал"
+  }
+},
+{
+  "pk": 116,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Нигер",
+    "short_name": "Нигер"
+  }
+},
+{
+  "pk": 117,
+  "model": "dict.country",
+  "fields": {
+    "name": "Федеративная Республика Нигерия",
+    "short_name": "Нигерия"
+  }
+},
+{
+  "pk": 118,
+  "model": "dict.country",
+  "fields": {
+    "name": "Королевство Нидерландов",
+    "short_name": "Нидерланды"
+  }
+},
+{
+  "pk": 119,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Никарагуа",
+    "short_name": "Никарагуа"
+  }
+},
+{
+  "pk": 120,
+  "model": "dict.country",
+  "fields": {
+    "name": "Новая Зеландия",
+    "short_name": "Новая Зеландия"
+  }
+},
+{
+  "pk": 121,
+  "model": "dict.country",
+  "fields": {
+    "name": "Королевство Норвегия",
+    "short_name": "Норвегия"
+  }
+},
+{
+  "pk": 122,
+  "model": "dict.country",
+  "fields": {
+    "name": "Объединённые Арабские Эмираты",
+    "short_name": "ОАЭ"
+  }
+},
+{
+  "pk": 123,
+  "model": "dict.country",
+  "fields": {
+    "name": "Султанат Оман",
+    "short_name": "Оман"
+  }
+},
+{
+  "pk": 124,
+  "model": "dict.country",
+  "fields": {
+    "name": "Исламская Республика Пакистан",
+    "short_name": "Пакистан"
+  }
+},
+{
+  "pk": 125,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Палау",
+    "short_name": "Палау"
+  }
+},
+{
+  "pk": 126,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Панама",
+    "short_name": "Панама"
+  }
+},
+{
+  "pk": 127,
+  "model": "dict.country",
+  "fields": {
+    "name": "Новая Гвинея",
+    "short_name": "Папуа"
+  }
+},
+{
+  "pk": 128,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Парагвай",
+    "short_name": "Парагвай"
+  }
+},
+{
+  "pk": 129,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Перу",
+    "short_name": "Перу"
+  }
+},
+{
+  "pk": 130,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Польша",
+    "short_name": "Польша"
+  }
+},
+{
+  "pk": 131,
+  "model": "dict.country",
+  "fields": {
+    "name": "Португальская Республика",
+    "short_name": "Португалия"
+  }
+},
+{
+  "pk": 132,
+  "model": "dict.country",
+  "fields": {
+    "name": "Российская Федерация",
+    "short_name": "Россия"
+  }
+},
+{
+  "pk": 133,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Руанда",
+    "short_name": "Руанда"
+  }
+},
+{
+  "pk": 134,
+  "model": "dict.country",
+  "fields": {
+    "name": "Румыния",
+    "short_name": "Румыния"
+  }
+},
+{
+  "pk": 135,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Эль-Сальвадор",
+    "short_name": "Сальвадор"
+  }
+},
+{
+  "pk": 136,
+  "model": "dict.country",
+  "fields": {
+    "name": "Независимое Государство Самоа",
+    "short_name": "Самоа"
+  }
+},
+{
+  "pk": 137,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Сан-Марино",
+    "short_name": "Сан-Марино"
+  }
+},
+{
+  "pk": 138,
+  "model": "dict.country",
+  "fields": {
+    "name": "Демократическая Республика Сан-Томе и Принсипи",
+    "short_name": "Сан-Томе и Принсипи"
+  }
+},
+{
+  "pk": 139,
+  "model": "dict.country",
+  "fields": {
+    "name": "Королевство Саудовская Аравия",
+    "short_name": "Саудовская Аравия"
+  }
+},
+{
+  "pk": 140,
+  "model": "dict.country",
+  "fields": {
+    "name": "Королевство Свазиленд",
+    "short_name": "Свазиленд"
+  }
+},
+{
+  "pk": 141,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Сейшельские Острова",
+    "short_name": "Сейшельские Острова"
+  }
+},
+{
+  "pk": 142,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Сенегал",
+    "short_name": "Сенегал"
+  }
+},
+{
+  "pk": 143,
+  "model": "dict.country",
+  "fields": {
+    "name": "Сент-Винсент и Гренадины",
+    "short_name": "Сент-Винсент и Гренадины"
+  }
+},
+{
+  "pk": 144,
+  "model": "dict.country",
+  "fields": {
+    "name": "Федерация Сент-Китс и Невис",
+    "short_name": "Сент-Китс и Невис"
+  }
+},
+{
+  "pk": 145,
+  "model": "dict.country",
+  "fields": {
+    "name": "Сент-Люсия",
+    "short_name": "Сент-Люсия"
+  }
+},
+{
+  "pk": 146,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Сербия",
+    "short_name": "Сербия"
+  }
+},
+{
+  "pk": 147,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Сингапур",
+    "short_name": "Сингапур"
+  }
+},
+{
+  "pk": 148,
+  "model": "dict.country",
+  "fields": {
+    "name": "Сирийская Арабская Республика",
+    "short_name": "Сирия"
+  }
+},
+{
+  "pk": 149,
+  "model": "dict.country",
+  "fields": {
+    "name": "Словацкая Республика",
+    "short_name": "Словакия"
+  }
+},
+{
+  "pk": 150,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Словения",
+    "short_name": "Словения"
+  }
+},
+{
+  "pk": 151,
+  "model": "dict.country",
+  "fields": {
+    "name": "Соединённые Штаты Америки",
+    "short_name": "США"
+  }
+},
+{
+  "pk": 152,
+  "model": "dict.country",
+  "fields": {
+    "name": "Соломоновы Острова",
+    "short_name": "Соломоновы Острова"
+  }
+},
+{
+  "pk": 153,
+  "model": "dict.country",
+  "fields": {
+    "name": "Сомалийская Республика",
+    "short_name": "Сомали"
+  }
+},
+{
+  "pk": 154,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Судан",
+    "short_name": "Судан"
+  }
+},
+{
+  "pk": 155,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Суринам",
+    "short_name": "Суринам"
+  }
+},
+{
+  "pk": 156,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Сьерра-Леоне",
+    "short_name": "Сьерра-Леоне"
+  }
+},
+{
+  "pk": 157,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Таджикистан",
+    "short_name": "Таджикистан"
+  }
+},
+{
+  "pk": 158,
+  "model": "dict.country",
+  "fields": {
+    "name": "Королевство Таиланд",
+    "short_name": "Таиланд"
+  }
+},
+{
+  "pk": 159,
+  "model": "dict.country",
+  "fields": {
+    "name": "Объединённая Республика Танзания",
+    "short_name": "Танзания"
+  }
+},
+{
+  "pk": 160,
+  "model": "dict.country",
+  "fields": {
+    "name": "Тоголезская Республика",
+    "short_name": "Того"
+  }
+},
+{
+  "pk": 161,
+  "model": "dict.country",
+  "fields": {
+    "name": "Королевство Тонга",
+    "short_name": "Тонга"
+  }
+},
+{
+  "pk": 162,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Тринидад и Тобаго",
+    "short_name": "Тринидад и Тобаго"
+  }
+},
+{
+  "pk": 163,
+  "model": "dict.country",
+  "fields": {
+    "name": "Тувалу",
+    "short_name": "Тувалу"
+  }
+},
+{
+  "pk": 164,
+  "model": "dict.country",
+  "fields": {
+    "name": "Тунисская Республика",
+    "short_name": "Тунис"
+  }
+},
+{
+  "pk": 165,
+  "model": "dict.country",
+  "fields": {
+    "name": "Туркменистан",
+    "short_name": "Туркмения"
+  }
+},
+{
+  "pk": 166,
+  "model": "dict.country",
+  "fields": {
+    "name": "Турецкая Республика",
+    "short_name": "Турция"
+  }
+},
+{
+  "pk": 167,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Уганда",
+    "short_name": "Уганда"
+  }
+},
+{
+  "pk": 168,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Узбекистан",
+    "short_name": "Узбекистан"
+  }
+},
+{
+  "pk": 169,
+  "model": "dict.country",
+  "fields": {
+    "name": "Украина",
+    "short_name": "Украина"
+  }
+},
+{
+  "pk": 170,
+  "model": "dict.country",
+  "fields": {
+    "name": "Восточная Республика Уругвай",
+    "short_name": "Уругвай"
+  }
+},
+{
+  "pk": 171,
+  "model": "dict.country",
+  "fields": {
+    "name": "Федеративные Штаты Микронезии",
+    "short_name": "Федеративные Штаты Микронезии"
+  }
+},
+{
+  "pk": 172,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Островов Фиджи",
+    "short_name": "Фиджи"
+  }
+},
+{
+  "pk": 173,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Филиппины",
+    "short_name": "Филиппины"
+  }
+},
+{
+  "pk": 174,
+  "model": "dict.country",
+  "fields": {
+    "name": "Финляндская Республика",
+    "short_name": "Финляндия"
+  }
+},
+{
+  "pk": 175,
+  "model": "dict.country",
+  "fields": {
+    "name": "Французская Республика",
+    "short_name": "Франция"
+  }
+},
+{
+  "pk": 176,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Хорватия",
+    "short_name": "Хорватия"
+  }
+},
+{
+  "pk": 177,
+  "model": "dict.country",
+  "fields": {
+    "name": "Центральноафриканская Республика",
+    "short_name": "Центральноафриканская Республика"
+  }
+},
+{
+  "pk": 178,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Чад",
+    "short_name": "Чад"
+  }
+},
+{
+  "pk": 179,
+  "model": "dict.country",
+  "fields": {
+    "name": "Черногория",
+    "short_name": "Черногория"
+  }
+},
+{
+  "pk": 180,
+  "model": "dict.country",
+  "fields": {
+    "name": "Чешская Республика",
+    "short_name": "Чехия"
+  }
+},
+{
+  "pk": 181,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Чили",
+    "short_name": "Чили"
+  }
+},
+{
+  "pk": 182,
+  "model": "dict.country",
+  "fields": {
+    "name": "Швейцарская Конфедерация",
+    "short_name": "Швейцария"
+  }
+},
+{
+  "pk": 183,
+  "model": "dict.country",
+  "fields": {
+    "name": "Королевство Швеция",
+    "short_name": "Швеция"
+  }
+},
+{
+  "pk": 184,
+  "model": "dict.country",
+  "fields": {
+    "name": "Демократическая Социалистическая Республика Шри-Ланка",
+    "short_name": "Шри-Ланка"
+  }
+},
+{
+  "pk": 185,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Эквадор",
+    "short_name": "Эквадор"
+  }
+},
+{
+  "pk": 186,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Экваториальная Гвинея",
+    "short_name": "Экваториальная Гвинея"
+  }
+},
+{
+  "pk": 187,
+  "model": "dict.country",
+  "fields": {
+    "name": "Государство Эритрея",
+    "short_name": "Эритрея"
+  }
+},
+{
+  "pk": 188,
+  "model": "dict.country",
+  "fields": {
+    "name": "Эстонская Республика",
+    "short_name": "Эстония"
+  }
+},
+{
+  "pk": 189,
+  "model": "dict.country",
+  "fields": {
+    "name": "Федеративная Демократическая Республика Эфиопия",
+    "short_name": "Эфиопия"
+  }
+},
+{
+  "pk": 190,
+  "model": "dict.country",
+  "fields": {
+    "name": "Южно-Африканская Республика",
+    "short_name": "ЮАР"
+  }
+},
+{
+  "pk": 191,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Южный Судан",
+    "short_name": "Южный Судан"
+  }
+},
+{
+  "pk": 192,
+  "model": "dict.country",
+  "fields": {
+    "name": "Ямайка",
+    "short_name": "Ямайка"
+  }
+},
+{
+  "pk": 193,
+  "model": "dict.country",
+  "fields": {
+    "name": "Япония",
+    "short_name": "Япония"
+  }
+},
+{
+  "pk": 194,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Абхазия",
+    "short_name": "Абхазия"
+  }
+},
+{
+  "pk": 195,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Косово",
+    "short_name": "Косово"
+  }
+},
+{
+  "pk": 196,
+  "model": "dict.country",
+  "fields": {
+    "name": "Турецкая Республика Северного Кипра",
+    "short_name": "Северный Кипр"
+  }
+},
+{
+  "pk": 197,
+  "model": "dict.country",
+  "fields": {
+    "name": "Китайская Республика",
+    "short_name": "Тайвань"
+  }
+},
+{
+  "pk": 198,
+  "model": "dict.country",
+  "fields": {
+    "name": "Республика Южная Осетия",
+    "short_name": "Южная Осетия"
+  }
+}
+]

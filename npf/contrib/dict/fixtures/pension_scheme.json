@@ -1,0 +1,34 @@
+[
+{
+  "model": "dict.pensionscheme",
+  "fields": {
+    "name": "Схема обвода ОПС",
+    "type": "t"
+  },
+  "pk": 9
+},
+{
+  "model": "dict.pensionscheme",
+  "fields": {
+    "name": "Схема завода ОПС",
+    "type": "t"
+  },
+  "pk": 6
+},
+{
+  "model": "dict.pensionscheme",
+  "fields": {
+    "name": "Схема обвода НПО",
+    "type": "f"
+  },
+  "pk": 7
+},
+{
+  "model": "dict.pensionscheme",
+  "fields": {
+    "name": "Схема завода НПО",
+    "type": "f"
+  },
+  "pk": 8
+}
+]

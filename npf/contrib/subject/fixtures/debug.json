@@ -1,0 +1,38 @@
+[
+    {
+        "model": "participant.Person",
+        "pk": 1,
+        "fields": {
+            "last_name": "Иванов",
+            "first_name": "Иван",
+            "middle_name": "Иванович",
+            "birthdate": "2014-12-15 16:04:37",
+            "birth_place": "г. Кемерово",
+            "registered_address": "г. Кемерово",
+            "postal_address": "г. Кемерово",
+            "sex": "m"
+        }
+    },
+    {
+        "model": "participant.Passport",
+        "pk": 1,
+        "fields": {
+            "series": "1111",
+            "number": "2222",
+            "issue_date": "2014-12-15 16:05:10",
+            "issued_by": "отд. внутр. дел заводского р-на г.Кемерово",
+            "subdivision_code": "422-003",
+            "person": 1,
+            "original": "./d37w0uy_WCZvSdf.png"
+        }
+    },
+    {
+        "model": "participant.InsuranceCertificate",
+        "pk": 1,
+        "fields": {
+            "number": "1111",
+            "person": 1,
+            "original": "./d37w0uy_WCZvSdf.png"
+        }
+    }
+]
